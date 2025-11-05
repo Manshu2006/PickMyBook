@@ -48,6 +48,8 @@ Lists top books per genre or per author.
 # 🛠️Tech Stack 🛠️
 
 Frontend: HTML5, CSS3
-Chatbot Integration: IBM Watson Assistant (Web Chat SDK)
+
+Chatbot Integration: IBM Watson Assistant 
+
 Hosting: GitHub Pages
 
